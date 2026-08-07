@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word 题库答案分离"
+  short_description: "将 Word 题库的题目与紧随解析答案安全分离并生成答案区"
+  default_prompt: "Use $word-qa-s to separate the questions and answers in this Word question-bank document."
